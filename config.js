@@ -2,4 +2,4 @@
 // 1. Get a free access key at https://web3forms.com (type your email, the key is sent to your inbox).
 // 2. Replace PASTE_YOUR_ACCESS_KEY_HERE below with your key. Keep the quotation marks.
 // Leave it as it is to keep emailing turned off.
-window.TAMAN_CONFIG = { web3formsKey: "PASTE_YOUR_ACCESS_KEY_HERE" };
+window.TAMAN_CONFIG = { web3formsKey: "aa22fb3c-a197-4b03-be88-28e6a88028ab" };
