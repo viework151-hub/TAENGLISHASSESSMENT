@@ -1,0 +1,2332 @@
+[
+  {
+    "id": "t3_listening_routine_1",
+    "testId": "test_3",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "audioGroupId": "t3_listening_anna_routine",
+    "audioTitle": "A1 Listening: My Daily Routine",
+    "audioMaxPlays": 2,
+    "taskDescription": "Topic: Daily Life | Level: Beginner A1 | Length: About 1 minute. You will listen to Anna introducing herself and then answer the questions below. You can listen to the recording a maximum of two times. Choose A, B, or C.",
+    "passage": "Listening Script:\nHello! My name is Anna. I am 18 years old. I live in a small house with my family.\nEvery day, I get up at seven o’clock. I have bread and milk for breakfast. Then, I go to school by bus.\nMy favourite subject is English because it is fun. At lunchtime, I eat rice and chicken with my friends.\nI come home at four o’clock. In the evening, I do my homework and watch TV. I go to bed at ten o’clock.\nI like my daily routine!",
+    "text": "1. How old is Anna?",
+    "options": [
+      "A. 16",
+      "B. 18",
+      "C. 20"
+    ],
+    "correctAnswer": "B. 18",
+    "scoreValue": 1,
+    "explanation": "1. B. 18: In the listening script, Anna introduces herself: \"Hello! My name is Anna. I am 18 years old.\"",
+    "audioDataUrl": "./audio/anna_18yrs.mp3"
+  },
+  {
+    "id": "t3_listening_routine_2",
+    "testId": "test_3",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "audioGroupId": "t3_listening_anna_routine",
+    "audioTitle": "A1 Listening: My Daily Routine",
+    "audioMaxPlays": 2,
+    "taskDescription": "Topic: Daily Life | Level: Beginner A1 | Length: About 1 minute. You will listen to Anna introducing herself and then answer the questions below. You can listen to the recording a maximum of two times. Choose A, B, or C.",
+    "passage": "Listening Script:\nHello! My name is Anna. I am 18 years old. I live in a small house with my family.\nEvery day, I get up at seven o’clock. I have bread and milk for breakfast. Then, I go to school by bus.\nMy favourite subject is English because it is fun. At lunchtime, I eat rice and chicken with my friends.\nI come home at four o’clock. In the evening, I do my homework and watch TV. I go to bed at ten o’clock.\nI like my daily routine!",
+    "text": "2. What does Anna drink for breakfast?",
+    "options": [
+      "A. Milk",
+      "B. Juice",
+      "C. Water"
+    ],
+    "correctAnswer": "A. Milk",
+    "scoreValue": 1,
+    "explanation": "2. A. Milk: Anna states: \"I have bread and milk for breakfast.\"",
+    "audioDataUrl": "./audio/anna_18yrs.mp3"
+  },
+  {
+    "id": "t3_listening_routine_3",
+    "testId": "test_3",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "audioGroupId": "t3_listening_anna_routine",
+    "audioTitle": "A1 Listening: My Daily Routine",
+    "audioMaxPlays": 2,
+    "taskDescription": "Topic: Daily Life | Level: Beginner A1 | Length: About 1 minute. You will listen to Anna introducing herself and then answer the questions below. You can listen to the recording a maximum of two times. Choose A, B, or C.",
+    "passage": "Listening Script:\nHello! My name is Anna. I am 18 years old. I live in a small house with my family.\nEvery day, I get up at seven o’clock. I have bread and milk for breakfast. Then, I go to school by bus.\nMy favourite subject is English because it is fun. At lunchtime, I eat rice and chicken with my friends.\nI come home at four o’clock. In the evening, I do my homework and watch TV. I go to bed at ten o’clock.\nI like my daily routine!",
+    "text": "3. How does Anna go to school?",
+    "options": [
+      "A. By car",
+      "B. By bike",
+      "C. By bus"
+    ],
+    "correctAnswer": "C. By bus",
+    "scoreValue": 1,
+    "explanation": "3. C. By bus: Anna states: \"Then, I go to school by bus.\"",
+    "audioDataUrl": "./audio/anna_18yrs.mp3"
+  },
+  {
+    "id": "t3_listening_routine_4",
+    "testId": "test_3",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "audioGroupId": "t3_listening_anna_routine",
+    "audioTitle": "A1 Listening: My Daily Routine",
+    "audioMaxPlays": 2,
+    "taskDescription": "Topic: Daily Life | Level: Beginner A1 | Length: About 1 minute. You will listen to Anna introducing herself and then answer the questions below. You can listen to the recording a maximum of two times. Choose A, B, or C.",
+    "passage": "Listening Script:\nHello! My name is Anna. I am 18 years old. I live in a small house with my family.\nEvery day, I get up at seven o’clock. I have bread and milk for breakfast. Then, I go to school by bus.\nMy favourite subject is English because it is fun. At lunchtime, I eat rice and chicken with my friends.\nI come home at four o’clock. In the evening, I do my homework and watch TV. I go to bed at ten o’clock.\nI like my daily routine!",
+    "text": "4. What is Anna’s favourite subject?",
+    "options": [
+      "A. English",
+      "B. Maths",
+      "C. Science"
+    ],
+    "correctAnswer": "A. English",
+    "scoreValue": 1,
+    "explanation": "4. A. English: Anna states: \"My favourite subject is English because it is fun.\"",
+    "audioDataUrl": "./audio/anna_18yrs.mp3"
+  },
+  {
+    "id": "t3_listening_routine_5",
+    "testId": "test_3",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "audioGroupId": "t3_listening_anna_routine",
+    "audioTitle": "A1 Listening: My Daily Routine",
+    "audioMaxPlays": 2,
+    "taskDescription": "Topic: Daily Life | Level: Beginner A1 | Length: About 1 minute. You will listen to Anna introducing herself and then answer the questions below. You can listen to the recording a maximum of two times. Choose A, B, or C.",
+    "passage": "Listening Script:\nHello! My name is Anna. I am 18 years old. I live in a small house with my family.\nEvery day, I get up at seven o’clock. I have bread and milk for breakfast. Then, I go to school by bus.\nMy favourite subject is English because it is fun. At lunchtime, I eat rice and chicken with my friends.\nI come home at four o’clock. In the evening, I do my homework and watch TV. I go to bed at ten o’clock.\nI like my daily routine!",
+    "text": "5. What time does Anna go to bed?",
+    "options": [
+      "A. 9:00 p.m.",
+      "B. 10:00 p.m.",
+      "C. 11:00 p.m."
+    ],
+    "correctAnswer": "B. 10:00 p.m.",
+    "scoreValue": 1,
+    "explanation": "5. B. 10:00 p.m.: Anna states: \"I go to bed at ten o’clock.\"",
+    "audioDataUrl": "./audio/anna_18yrs.mp3"
+  },
+  {
+    "id": "t3_vocab_1",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "1. He loves to teach young students. He is a ____.",
+    "options": [
+      "A. Doctor",
+      "B. IT coder",
+      "C. Teacher",
+      "D. Footballer"
+    ],
+    "correctAnswer": "C. Teacher",
+    "scoreValue": 1,
+    "explanation": "C. Teacher: A teacher teaches students."
+  },
+  {
+    "id": "t3_vocab_2",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "2. I sleep in my ____.",
+    "options": [
+      "A. Bed",
+      "B. Bag",
+      "C. Cup",
+      "D. Shoe"
+    ],
+    "correctAnswer": "A. Bed",
+    "scoreValue": 1,
+    "explanation": "A. Bed: We sleep in a bed."
+  },
+  {
+    "id": "t3_vocab_3",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "3. The sun is ____.",
+    "options": [
+      "A. Blue",
+      "B. Green",
+      "C. Yellow",
+      "D. Purple"
+    ],
+    "correctAnswer": "C. Yellow",
+    "scoreValue": 1,
+    "explanation": "C. Yellow: The sun is often shown as yellow in children's pictures."
+  },
+  {
+    "id": "t3_vocab_4",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "4. I wear ____ on my feet.",
+    "options": [
+      "A. Gloves",
+      "B. Glasses",
+      "C. Socks",
+      "D. Hats"
+    ],
+    "correctAnswer": "C. Socks",
+    "scoreValue": 1,
+    "explanation": "C. Socks: We wear socks on our feet."
+  },
+  {
+    "id": "t3_vocab_5",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "5. An apple is a ____.",
+    "options": [
+      "A. Fruit",
+      "B. Animal",
+      "C. Toy",
+      "D. Drink"
+    ],
+    "correctAnswer": "A. Fruit",
+    "scoreValue": 1,
+    "explanation": "A. Fruit: An apple is a type of fruit."
+  },
+  {
+    "id": "t3_vocab_6",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "6. I use a ____ to brush my teeth.",
+    "options": [
+      "A. Spoon",
+      "B. Toothbrush",
+      "C. Fork",
+      "D. Pencil"
+    ],
+    "correctAnswer": "B. Toothbrush",
+    "scoreValue": 1,
+    "explanation": "B. Toothbrush: We use a toothbrush to clean our teeth."
+  },
+  {
+    "id": "t3_vocab_7",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "7. You can buy food at a ____.",
+    "options": [
+      "A. Hospital",
+      "B. School",
+      "C. Market",
+      "D. Library"
+    ],
+    "correctAnswer": "C. Market",
+    "scoreValue": 1,
+    "explanation": "C. Market: We can buy food at a market."
+  },
+  {
+    "id": "t3_vocab_8",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "8. I feel tired and want to sleep. I am ____.",
+    "options": [
+      "A. Hungry",
+      "B. Sleepy",
+      "C. Angry",
+      "D. Thirsty"
+    ],
+    "correctAnswer": "B. Sleepy",
+    "scoreValue": 1,
+    "explanation": "B. Sleepy: We feel sleepy when we want to sleep."
+  },
+  {
+    "id": "t3_vocab_9",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "9. Which animal has a very long neck?",
+    "options": [
+      "A. Rabbit",
+      "B. Cat",
+      "C. Giraffe",
+      "D. Dog"
+    ],
+    "correctAnswer": "C. Giraffe",
+    "scoreValue": 1,
+    "explanation": "C. Giraffe: A giraffe is known for its very long neck."
+  },
+  {
+    "id": "t3_vocab_10",
+    "testId": "test_3",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "A1 Vocabulary Quiz: 10 Multiple-Choice Questions. Choose the correct answer (A, B, C, or D).",
+    "text": "10. A person who cooks food in a restaurant is a ____.",
+    "options": [
+      "A. Chef",
+      "B. Farmer",
+      "C. Pilot",
+      "D. Singer"
+    ],
+    "correctAnswer": "A. Chef",
+    "scoreValue": 1,
+    "explanation": "A. Chef: A chef prepares and cooks food."
+  },
+  {
+    "id": "t3_reading_p1_1",
+    "testId": "test_3",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "t3_passage_tracy",
+    "passageTitle": "Reading Passage 1: TRACY: A TEACHER FROM NEW YORK",
+    "taskDescription": "Instructions: Choose the correct letter, A, B, C, or D. You should spend about 5-7 minutes on Questions 1–3.",
+    "passage": "TRACY: A TEACHER FROM NEW YORK\nMy name is Tracy. I am 28 years old, and I live in New York City. I am a teacher at a primary school. I teach English to children. I go to school by bus every morning. My classes start at eight o’clock. I finish work at four o’clock in the afternoon. After work, I like reading books and watching TV. I live with my parents, and we often have dinner together.",
+    "text": "1. Where does Tracy live?",
+    "options": [
+      "A. London",
+      "B. New York City",
+      "C. Sydney",
+      "D. Beijing"
+    ],
+    "correctAnswer": "B. New York City",
+    "scoreValue": 1,
+    "explanation": "1. B. Tracy lives in New York City."
+  },
+  {
+    "id": "t3_reading_p1_2",
+    "testId": "test_3",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "t3_passage_tracy",
+    "passageTitle": "Reading Passage 1: TRACY: A TEACHER FROM NEW YORK",
+    "taskDescription": "Instructions: Choose the correct letter, A, B, C, or D. You should spend about 5-7 minutes on Questions 1–3.",
+    "passage": "TRACY: A TEACHER FROM NEW YORK\nMy name is Tracy. I am 28 years old, and I live in New York City. I am a teacher at a primary school. I teach English to children. I go to school by bus every morning. My classes start at eight o’clock. I finish work at four o’clock in the afternoon. After work, I like reading books and watching TV. I live with my parents, and we often have dinner together.",
+    "text": "2. What does Tracy teach?",
+    "options": [
+      "A. English",
+      "B. Maths",
+      "C. Science",
+      "D. Car Engineering"
+    ],
+    "correctAnswer": "A. English",
+    "scoreValue": 1,
+    "explanation": "2. A. She teaches English to children."
+  },
+  {
+    "id": "t3_reading_p1_3",
+    "testId": "test_3",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "t3_passage_tracy",
+    "passageTitle": "Reading Passage 1: TRACY: A TEACHER FROM NEW YORK",
+    "taskDescription": "Instructions: Choose the correct letter, A, B, C, or D. You should spend about 5-7 minutes on Questions 1–3.",
+    "passage": "TRACY: A TEACHER FROM NEW YORK\nMy name is Tracy. I am 28 years old, and I live in New York City. I am a teacher at a primary school. I teach English to children. I go to school by bus every morning. My classes start at eight o’clock. I finish work at four o’clock in the afternoon. After work, I like reading books and watching TV. I live with my parents, and we often have dinner together.",
+    "text": "3. How does Tracy go to school?",
+    "options": [
+      "A. By car",
+      "B. By train",
+      "C. By bus",
+      "D. On foot"
+    ],
+    "correctAnswer": "C. By bus",
+    "scoreValue": 1,
+    "explanation": "3. C. She goes to school by bus every morning."
+  },
+  {
+    "id": "t3_reading_p2_4",
+    "testId": "test_3",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "t3_passage_pid",
+    "passageTitle": "Reading Passage 2: PID: TRACY'S PET DOG",
+    "taskDescription": "Instructions: Choose the correct letter, A, B, or C. You should spend about 5-7 minutes on Questions 4–6, which are based on Reading Passage 2.",
+    "passage": "PID: TRACY'S PET DOG\nPid is Tracy's pet dog. He is a Corgi with yellow fur and short legs. He is small, cute, and friendly. Pid likes playing with a ball in the garden. Every morning, Tracy takes him for a walk. He likes eating chicken and sleeping on his soft bed. Tracy loves Pid very much because he is a good and happy dog.",
+    "text": "4. What kind of dog is Pid?",
+    "options": [
+      "A. A Corgi",
+      "B. A Poodle",
+      "C. A Husky"
+    ],
+    "correctAnswer": "A. A Corgi",
+    "scoreValue": 1,
+    "explanation": "4. A. Pid is a Corgi."
+  },
+  {
+    "id": "t3_reading_p2_5",
+    "testId": "test_3",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "t3_passage_pid",
+    "passageTitle": "Reading Passage 2: PID: TRACY'S PET DOG",
+    "taskDescription": "Instructions: Choose the correct letter, A, B, or C. You should spend about 5-7 minutes on Questions 4–6, which are based on Reading Passage 2.",
+    "passage": "PID: TRACY'S PET DOG\nPid is Tracy's pet dog. He is a Corgi with yellow fur and short legs. He is small, cute, and friendly. Pid likes playing with a ball in the garden. Every morning, Tracy takes him for a walk. He likes eating chicken and sleeping on his soft bed. Tracy loves Pid very much because he is a good and happy dog.",
+    "text": "5. What colour is Pid's fur?",
+    "options": [
+      "A. Black",
+      "B. White",
+      "C. Yellow"
+    ],
+    "correctAnswer": "C. Yellow",
+    "scoreValue": 1,
+    "explanation": "5. C. Pid has yellow fur."
+  },
+  {
+    "id": "t3_reading_p2_6",
+    "testId": "test_3",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "t3_passage_pid",
+    "passageTitle": "Reading Passage 2: PID: TRACY'S PET DOG",
+    "taskDescription": "Instructions: Choose the correct letter, A, B, or C. You should spend about 5-7 minutes on Questions 4–6, which are based on Reading Passage 2.",
+    "passage": "PID: TRACY'S PET DOG\nPid is Tracy's pet dog. He is a Corgi with yellow fur and short legs. He is small, cute, and friendly. Pid likes playing with a ball in the garden. Every morning, Tracy takes him for a walk. He likes eating chicken and sleeping on his soft bed. Tracy loves Pid very much because he is a good and happy dog.",
+    "text": "6. What does Pid like eating?",
+    "options": [
+      "A. Fish",
+      "B. Chicken",
+      "C. Bread"
+    ],
+    "correctAnswer": "B. Chicken",
+    "scoreValue": 1,
+    "explanation": "6. B. Pid likes eating chicken."
+  },
+  {
+    "id": "t3_grammar_1",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "1. My sister _____ a teacher at a primary school.",
+    "options": [
+      "A. am",
+      "B. is",
+      "C. are",
+      "D. be"
+    ],
+    "correctAnswer": "B. is",
+    "scoreValue": 1,
+    "explanation": "1. B. “Is” agrees with the singular subject “my sister.”"
+  },
+  {
+    "id": "t3_grammar_2",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "2. Tom usually _____ breakfast at seven o’clock.",
+    "options": [
+      "A. have",
+      "B. having",
+      "C. has",
+      "D. had"
+    ],
+    "correctAnswer": "C. has",
+    "scoreValue": 1,
+    "explanation": "2. C. “Has” is used with “Tom” in the present simple."
+  },
+  {
+    "id": "t3_grammar_3",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "3. Look! The children _____ in the garden now.",
+    "options": [
+      "A. play",
+      "B. played",
+      "C. plays",
+      "D. are playing"
+    ],
+    "correctAnswer": "D. are playing",
+    "scoreValue": 1,
+    "explanation": "3. D. “Are playing” describes an action happening now."
+  },
+  {
+    "id": "t3_grammar_4",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "4. We _____ to the cinema yesterday.",
+    "options": [
+      "A. went",
+      "B. go",
+      "C. gone",
+      "D. going"
+    ],
+    "correctAnswer": "A. went",
+    "scoreValue": 1,
+    "explanation": "4. A. “Went” is the past simple form of “go.” “Yesterday” indicates the past."
+  },
+  {
+    "id": "t3_grammar_5",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "5. There _____ two books on the table.",
+    "options": [
+      "A. is",
+      "B. are",
+      "C. am",
+      "D. be"
+    ],
+    "correctAnswer": "B. are",
+    "scoreValue": 1,
+    "explanation": "5. B. “Are” agrees with the plural noun “two books.”"
+  },
+  {
+    "id": "t3_grammar_6",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "6. My birthday is _____ May.",
+    "options": [
+      "A. at",
+      "B. on",
+      "C. in",
+      "D. by"
+    ],
+    "correctAnswer": "C. in",
+    "scoreValue": 1,
+    "explanation": "6. C. Use “in” with months, years, and seasons."
+  },
+  {
+    "id": "t3_grammar_7",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "7. She has _____ orange in her lunchbox.",
+    "options": [
+      "A. a",
+      "B. an",
+      "C. the",
+      "D. some"
+    ],
+    "correctAnswer": "B. an",
+    "scoreValue": 1,
+    "explanation": "7. B. Use “an” before the vowel sound at the beginning of “orange.”"
+  },
+  {
+    "id": "t3_grammar_8",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "8. This bag is _____ than that one.",
+    "options": [
+      "A. cheap",
+      "B. cheapest",
+      "C. more cheap",
+      "D. cheaper"
+    ],
+    "correctAnswer": "D. cheaper",
+    "scoreValue": 1,
+    "explanation": "8. D. “Cheaper” is the comparative form of “cheap.”"
+  },
+  {
+    "id": "t3_grammar_9",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "9. I was tired, _____ I went to bed early.",
+    "options": [
+      "A. so",
+      "B. but",
+      "C. because",
+      "D. or"
+    ],
+    "correctAnswer": "A. so",
+    "scoreValue": 1,
+    "explanation": "9. A. “So” introduces a result. The speaker was tired, so they went to bed early."
+  },
+  {
+    "id": "t3_grammar_10",
+    "testId": "test_3",
+    "section": "Grammar",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "taskDescription": "GRAMMAR QUIZ: Instructions: Choose the correct answer, A, B, C, or D.",
+    "text": "10. If it rains tomorrow, we _____ at home.",
+    "options": [
+      "A. stayed",
+      "B. staying",
+      "C. will stay",
+      "D. stays"
+    ],
+    "correctAnswer": "C. will stay",
+    "scoreValue": 1,
+    "explanation": "10. C. The first conditional uses the present simple after “if” and “will” for the possible future result."
+  },
+  {
+    "id": "vocab_1",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "Which fruit is yellow, long, and monkeys love to eat?",
+    "options": [
+      "A) Apple",
+      "B) Banana",
+      "C) Grape",
+      "D) Strawberry"
+    ],
+    "correctAnswer": "B) Banana",
+    "scoreValue": 1,
+    "explanation": "A banana is a long yellow tropical fruit favored by monkeys."
+  },
+  {
+    "id": "vocab_2",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "My father’s brother is my ________.",
+    "options": [
+      "A) Cousin",
+      "B) Uncle",
+      "C) Grandfather",
+      "D) Nephew"
+    ],
+    "correctAnswer": "B) Uncle",
+    "scoreValue": 1,
+    "explanation": "The brother of one's father or mother is an uncle."
+  },
+  {
+    "id": "vocab_3",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "Choose the word that means the opposite of \"HAPPY\":",
+    "options": [
+      "A) Fast",
+      "B) Sad",
+      "C) Small",
+      "D) Young"
+    ],
+    "correctAnswer": "B) Sad",
+    "scoreValue": 1,
+    "explanation": "\"Sad\" is the direct antonym of \"happy\"."
+  },
+  {
+    "id": "vocab_4",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "text": "What do you call the small instrument people wear on their wrist to check the time?",
+    "options": [
+      "A) Ring",
+      "B) Watch",
+      "C) Mirror",
+      "D) Wallet"
+    ],
+    "correctAnswer": "B) Watch",
+    "scoreValue": 1,
+    "explanation": "A watch (wristwatch) is worn on the wrist to tell time."
+  },
+  {
+    "id": "vocab_5",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "Tom is feeling thirsty, so he wants a glass of ________.",
+    "options": [
+      "A) water",
+      "B) bread",
+      "C) rice",
+      "D) soup"
+    ],
+    "correctAnswer": "A) water",
+    "scoreValue": 1,
+    "explanation": "Thirst is relieved by drinking liquids like water."
+  },
+  {
+    "id": "vocab_6",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "Which word describes the weather when you need an umbrella?",
+    "options": [
+      "A) Sunny",
+      "B) Windy",
+      "C) Rainy",
+      "D) Cloudy"
+    ],
+    "correctAnswer": "C) Rainy",
+    "scoreValue": 1,
+    "explanation": "An umbrella protects against rainy weather."
+  },
+  {
+    "id": "vocab_7",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "A dog, a cat, and an elephant are all types of ________.",
+    "options": [
+      "A) clothes",
+      "B) animals",
+      "C) drinks",
+      "D) jobs"
+    ],
+    "correctAnswer": "B) animals",
+    "scoreValue": 1,
+    "explanation": "Dogs, cats, and elephants belong to the animal category."
+  },
+  {
+    "id": "vocab_8",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "text": "Which item does NOT belong in this group?",
+    "options": [
+      "A) Shirt",
+      "B) Trousers",
+      "C) Jacket",
+      "D) Fork"
+    ],
+    "correctAnswer": "D) Fork",
+    "scoreValue": 1,
+    "explanation": "A fork is cutlery/utensil, whereas shirt, trousers, and jacket are clothing."
+  },
+  {
+    "id": "vocab_9",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "text": "If a meal tastes extremely good, you can describe it as ________.",
+    "options": [
+      "A) noisy",
+      "B) delicious",
+      "C) crowded",
+      "D) heavy"
+    ],
+    "correctAnswer": "B) delicious",
+    "scoreValue": 1,
+    "explanation": "\"Delicious\" describes food that has a very pleasant taste."
+  },
+  {
+    "id": "vocab_10",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "text": "What is the opposite of the adjective \"CHEAP\"?",
+    "options": [
+      "A) Easy",
+      "B) Expensive",
+      "C) Strong",
+      "D) Quiet"
+    ],
+    "correctAnswer": "B) Expensive",
+    "scoreValue": 1,
+    "explanation": "\"Expensive\" means costing a lot of money, the opposite of \"cheap\"."
+  },
+  {
+    "id": "vocab_11",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "text": "When you do not know how to reach a place in a new city, you ask for ________.",
+    "options": [
+      "A) directions",
+      "B) recipes",
+      "C) discounts",
+      "D) permission"
+    ],
+    "correctAnswer": "A) directions",
+    "scoreValue": 1,
+    "explanation": "\"Directions\" are instructions on how to reach a specific destination."
+  },
+  {
+    "id": "vocab_12",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "text": "Choose the word for a person whose job is to cook food in a restaurant:",
+    "options": [
+      "A) Pilot",
+      "B) Chef",
+      "C) Mechanic",
+      "D) Dentist"
+    ],
+    "correctAnswer": "B) Chef",
+    "scoreValue": 1,
+    "explanation": "A chef is a professional cook in a restaurant or hotel."
+  },
+  {
+    "id": "vocab_13",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "text": "After working for 12 hours without a break, feeling extremely tired means you are ________.",
+    "options": [
+      "A) exhausted",
+      "B) polite",
+      "C) careless",
+      "D) modern"
+    ],
+    "correctAnswer": "A) exhausted",
+    "scoreValue": 1,
+    "explanation": "\"Exhausted\" means completely drained of physical or mental energy."
+  },
+  {
+    "id": "vocab_14",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "Which vehicle has two wheels and needs you to pedal to move?",
+    "options": [
+      "A) Bicycle",
+      "B) Bus",
+      "C) Motorbike",
+      "D) Taxi"
+    ],
+    "correctAnswer": "A) Bicycle",
+    "scoreValue": 1,
+    "explanation": "A bicycle has two wheels and is propelled by pedaling."
+  },
+  {
+    "id": "vocab_15",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "text": "What do you call a person who lives right next door to your house?",
+    "options": [
+      "A) Stranger",
+      "B) Neighbor",
+      "C) Customer",
+      "D) Passenger"
+    ],
+    "correctAnswer": "B) Neighbor",
+    "scoreValue": 1,
+    "explanation": "A neighbor is someone living nearby or next door."
+  },
+  {
+    "id": "vocab_16",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "text": "Which word describes someone who is happy to share their money and time with others?",
+    "options": [
+      "A) Selfish",
+      "B) Generous",
+      "C) Stubborn",
+      "D) Jealous"
+    ],
+    "correctAnswer": "B) Generous",
+    "scoreValue": 1,
+    "explanation": "\"Generous\" means showing a readiness to give more of something than is strictly necessary."
+  },
+  {
+    "id": "vocab_17",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "text": "What is the meaning of the action \"to postpone\" an event?",
+    "options": [
+      "A) To cancel it permanently",
+      "B) To move it to a later date",
+      "C) To start it earlier",
+      "D) To finish it quickly"
+    ],
+    "correctAnswer": "B) To move it to a later date",
+    "scoreValue": 1,
+    "explanation": "\"Postpone\" means to arrange for an event to take place at a time later than that first scheduled."
+  },
+  {
+    "id": "vocab_18",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "text": "A person who is reliable and can always be trusted to do what they promise is ________.",
+    "options": [
+      "A) dependable",
+      "B) aggressive",
+      "C) clumsy",
+      "D) dishonest"
+    ],
+    "correctAnswer": "A) dependable",
+    "scoreValue": 1,
+    "explanation": "\"Dependable\" means trustworthy, reliable, and constant."
+  },
+  {
+    "id": "vocab_19",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "text": "Select the closest synonym for the word \"ESSENTIAL\":",
+    "options": [
+      "A) Optional",
+      "B) Necessary",
+      "C) Temporary",
+      "D) Unusual"
+    ],
+    "correctAnswer": "B) Necessary",
+    "scoreValue": 1,
+    "explanation": "\"Essential\" refers to something fundamentally required or necessary."
+  },
+  {
+    "id": "vocab_20",
+    "testId": "test_1",
+    "section": "Vocabulary",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "text": "Which noun refers to a large building where goods are manufactured or produced in bulk?",
+    "options": [
+      "A) Warehouse",
+      "B) Factory",
+      "C) Department store",
+      "D) Laboratory"
+    ],
+    "correctAnswer": "B) Factory",
+    "scoreValue": 1,
+    "explanation": "A factory is an industrial building where goods are manufactured."
+  },
+  {
+    "id": "t1_grammar_1",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "She ________ to the gym every Tuesday afternoon.",
+    "options": [
+      "A) go",
+      "B) goes",
+      "C) going",
+      "D) gone"
+    ],
+    "correctAnswer": "B) goes",
+    "scoreValue": 1,
+    "explanation": "Present simple 3rd person singular takes -es (goes)."
+  },
+  {
+    "id": "t1_grammar_2",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "They ________ TV right now in the living room.",
+    "options": [
+      "A) watch",
+      "B) are watching",
+      "C) watched",
+      "D) watches"
+    ],
+    "correctAnswer": "B) are watching",
+    "scoreValue": 1,
+    "explanation": "\"Right now\" indicates an ongoing action in the present continuous."
+  },
+  {
+    "id": "t1_grammar_3",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "text": "Yesterday, I ________ my keys at the coffee shop.",
+    "options": [
+      "A) forget",
+      "B) forgotten",
+      "C) forgot",
+      "D) forgetting"
+    ],
+    "correctAnswer": "C) forgot",
+    "scoreValue": 1,
+    "explanation": "\"Yesterday\" requires simple past: forget -> forgot."
+  },
+  {
+    "id": "t1_grammar_4",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "text": "This summer is much ________ than last summer.",
+    "options": [
+      "A) hot",
+      "B) hotter",
+      "C) hottest",
+      "D) more hot"
+    ],
+    "correctAnswer": "B) hotter",
+    "scoreValue": 1,
+    "explanation": "Short adjectives take -er in comparative: hotter."
+  },
+  {
+    "id": "t1_grammar_5",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "text": "I have lived in this apartment ________ 2019.",
+    "options": [
+      "A) for",
+      "B) since",
+      "C) during",
+      "D) from"
+    ],
+    "correctAnswer": "B) since",
+    "scoreValue": 1,
+    "explanation": "\"Since\" indicates the starting point of a duration in the present perfect."
+  },
+  {
+    "id": "t1_grammar_6",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "text": "If I ________ you, I would take the offer immediately.",
+    "options": [
+      "A) was",
+      "B) were",
+      "C) am",
+      "D) have been"
+    ],
+    "correctAnswer": "B) were",
+    "scoreValue": 1,
+    "explanation": "Second conditional uses subjunctive \"were\" for hypothetical advice."
+  },
+  {
+    "id": "t1_grammar_7",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "text": "By the time the manager arrived, the team ________ the project.",
+    "options": [
+      "A) finished",
+      "B) had finished",
+      "C) has finished",
+      "D) will finish"
+    ],
+    "correctAnswer": "B) had finished",
+    "scoreValue": 1,
+    "explanation": "Past perfect expresses an action completed before another past event."
+  },
+  {
+    "id": "t1_grammar_8",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "text": "She avoided ________ about the controversial decision.",
+    "options": [
+      "A) to speak",
+      "B) speaking",
+      "C) speak",
+      "D) having spoken"
+    ],
+    "correctAnswer": "B) speaking",
+    "scoreValue": 1,
+    "explanation": "The verb \"avoid\" is followed by a gerund (-ing form)."
+  },
+  {
+    "id": "t1_grammar_9",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "C1",
+    "type": "multiple-choice",
+    "text": "Hardly ________ the station when the train pulled away.",
+    "options": [
+      "A) we had reached",
+      "B) had we reached",
+      "C) did we reach",
+      "D) we reached"
+    ],
+    "correctAnswer": "B) had we reached",
+    "scoreValue": 1,
+    "explanation": "Negative inversion: \"Hardly\" at the beginning requires auxiliary-subject inversion."
+  },
+  {
+    "id": "t1_grammar_10",
+    "testId": "test_1",
+    "section": "Grammar",
+    "difficulty": "C1",
+    "type": "multiple-choice",
+    "text": "The committee insisted that every candidate ________ present at 8 AM.",
+    "options": [
+      "A) is",
+      "B) be",
+      "C) was",
+      "D) were"
+    ],
+    "correctAnswer": "B) be",
+    "scoreValue": 1,
+    "explanation": "Subjunctive mood following verbs of demand/insistence takes the base form \"be\"."
+  },
+  {
+    "id": "t1_reading_han_1",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_han_london",
+    "passageTitle": "Reading Passage 1: Han: A Vietnamese Student in London",
+    "taskDescription": "You should spend about 10 minutes on Questions 1–5, which are based on Reading Passage 1 below. Choose the correct letter, A, B, C, or D.",
+    "passage": "HAN: A VIETNAMESE STUDENT IN LONDON\nMy name is Han, and I am 19 years old. I come from Ho Chi Minh City, Vietnam, but now I live in London, England. I moved here six months ago to study English and learn about British culture. I study at a language school, where my classes start at nine o’clock and finish at twelve. After class, I often go to the library to do my homework. I live with a kind British family near my school. In my free time, I enjoy visiting museums and walking in parks. I sometimes miss Vietnamese food, so I cook pho or banh mi at the weekend. Although I miss my family, I enjoy living in London because I can learn new things and meet people from different countries.",
+    "text": "1. Where is Han from?",
+    "options": [
+      "A. London",
+      "B. Ho Chi Minh City",
+      "C. Tokyo",
+      "D. Bangkok"
+    ],
+    "correctAnswer": "B. Ho Chi Minh City",
+    "scoreValue": 1,
+    "explanation": "Han comes from Ho Chi Minh City, Vietnam."
+  },
+  {
+    "id": "t1_reading_han_2",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_han_london",
+    "passageTitle": "Reading Passage 1: Han: A Vietnamese Student in London",
+    "taskDescription": "You should spend about 10 minutes on Questions 1–5, which are based on Reading Passage 1 below. Choose the correct letter, A, B, C, or D.",
+    "passage": "HAN: A VIETNAMESE STUDENT IN LONDON\nMy name is Han, and I am 19 years old. I come from Ho Chi Minh City, Vietnam, but now I live in London, England. I moved here six months ago to study English and learn about British culture. I study at a language school, where my classes start at nine o’clock and finish at twelve. After class, I often go to the library to do my homework. I live with a kind British family near my school. In my free time, I enjoy visiting museums and walking in parks. I sometimes miss Vietnamese food, so I cook pho or banh mi at the weekend. Although I miss my family, I enjoy living in London because I can learn new things and meet people from different countries.",
+    "text": "2. Why did Han move to London?",
+    "options": [
+      "A. To find a job",
+      "B. To visit his friends",
+      "C. To study English",
+      "D. To learn cooking"
+    ],
+    "correctAnswer": "C. To study English",
+    "scoreValue": 1,
+    "explanation": "He moved to London to study English and learn about British culture."
+  },
+  {
+    "id": "t1_reading_han_3",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_han_london",
+    "passageTitle": "Reading Passage 1: Han: A Vietnamese Student in London",
+    "taskDescription": "You should spend about 10 minutes on Questions 1–5, which are based on Reading Passage 1 below. Choose the correct letter, A, B, C, or D.",
+    "passage": "HAN: A VIETNAMESE STUDENT IN LONDON\nMy name is Han, and I am 19 years old. I come from Ho Chi Minh City, Vietnam, but now I live in London, England. I moved here six months ago to study English and learn about British culture. I study at a language school, where my classes start at nine o’clock and finish at twelve. After class, I often go to the library to do my homework. I live with a kind British family near my school. In my free time, I enjoy visiting museums and walking in parks. I sometimes miss Vietnamese food, so I cook pho or banh mi at the weekend. Although I miss my family, I enjoy living in London because I can learn new things and meet people from different countries.",
+    "text": "3. What time do Han’s classes finish?",
+    "options": [
+      "A. 9:00 a.m.",
+      "B. 10:00 a.m.",
+      "C. 12:00 p.m.",
+      "D. 3:00 p.m."
+    ],
+    "correctAnswer": "C. 12:00 p.m.",
+    "scoreValue": 1,
+    "explanation": "His classes finish at twelve o’clock."
+  },
+  {
+    "id": "t1_reading_han_4",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_han_london",
+    "passageTitle": "Reading Passage 1: Han: A Vietnamese Student in London",
+    "taskDescription": "You should spend about 10 minutes on Questions 1–5, which are based on Reading Passage 1 below. Choose the correct letter, A, B, C, or D.",
+    "passage": "HAN: A VIETNAMESE STUDENT IN LONDON\nMy name is Han, and I am 19 years old. I come from Ho Chi Minh City, Vietnam, but now I live in London, England. I moved here six months ago to study English and learn about British culture. I study at a language school, where my classes start at nine o’clock and finish at twelve. After class, I often go to the library to do my homework. I live with a kind British family near my school. In my free time, I enjoy visiting museums and walking in parks. I sometimes miss Vietnamese food, so I cook pho or banh mi at the weekend. Although I miss my family, I enjoy living in London because I can learn new things and meet people from different countries.",
+    "text": "4. Where does Han often go after class?",
+    "options": [
+      "A. The library",
+      "B. The cinema",
+      "C. The supermarket",
+      "D. The restaurant"
+    ],
+    "correctAnswer": "A. The library",
+    "scoreValue": 1,
+    "explanation": "He often goes to the library to do his homework."
+  },
+  {
+    "id": "t1_reading_han_5",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_han_london",
+    "passageTitle": "Reading Passage 1: Han: A Vietnamese Student in London",
+    "taskDescription": "You should spend about 10 minutes on Questions 1–5, which are based on Reading Passage 1 below. Choose the correct letter, A, B, C, or D.",
+    "passage": "HAN: A VIETNAMESE STUDENT IN LONDON\nMy name is Han, and I am 19 years old. I come from Ho Chi Minh City, Vietnam, but now I live in London, England. I moved here six months ago to study English and learn about British culture. I study at a language school, where my classes start at nine o’clock and finish at twelve. After class, I often go to the library to do my homework. I live with a kind British family near my school. In my free time, I enjoy visiting museums and walking in parks. I sometimes miss Vietnamese food, so I cook pho or banh mi at the weekend. Although I miss my family, I enjoy living in London because I can learn new things and meet people from different countries.",
+    "text": "5. What does Han sometimes cook at the weekend?",
+    "options": [
+      "A. Japanese food",
+      "B. British food",
+      "C. Italian food",
+      "D. Vietnamese food"
+    ],
+    "correctAnswer": "D. Vietnamese food",
+    "scoreValue": 1,
+    "explanation": "He cooks Vietnamese food, such as pho or banh mi."
+  },
+  {
+    "id": "t1_reading_jellyfish_1",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Which paragraph contains the following information? Choose the correct letter, A, B, or C.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH\nA. Jellyfish are among the most fascinating creatures in the ocean, having drifted through Earth's waters for over 500 million years. Despite their name, jellyfish are not actually fish; they are invertebrates made up of more than 90% water. Lacking a brain, heart, or bones, these simple organisms rely on a basic network of nerves to detect light, odors, and movements in their surrounding environment.\nB. Most jellyfish move by expanding and contracting their bell-shaped bodies, pushing water behind them to swim forward. However, they are generally at the mercy of ocean currents, which carry them vast distances. Their long, trailing tentacles are covered with specialized stinging cells called nematocysts. Jellyfish use these cells both as a defense mechanism against predators and to paralyze small fish and plankton for food. While a sting from most species only causes minor skin irritation in humans, some species, such as the box jellyfish, possess venom powerful enough to be fatal.\nC. In recent years, scientists have observed a dramatic rise in global jellyfish populations, an event known as a \"jellyfish bloom.\" Researchers believe that climate change, rising sea temperatures, and overfishing, which removes natural competitors for food, are driving this increase. These massive blooms can disrupt local marine ecosystems, clog power plant cooling pipes, and damage fishing nets, creating unexpected challenges for coastal communities around the world.",
+    "text": "1. The physical characteristics that jellyfish do not have.",
+    "options": [
+      "A. Paragraph A",
+      "B. Paragraph B",
+      "C. Paragraph C"
+    ],
+    "correctAnswer": "A. Paragraph A",
+    "scoreValue": 1,
+    "explanation": "Paragraph A states that jellyfish lack a brain, heart, and bones."
+  },
+  {
+    "id": "t1_reading_jellyfish_2",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Which paragraph contains the following information? Choose the correct letter, A, B, or C.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH (See passage text)",
+    "text": "2. The way jellyfish move through the water.",
+    "options": [
+      "A. Paragraph A",
+      "B. Paragraph B",
+      "C. Paragraph C"
+    ],
+    "correctAnswer": "B. Paragraph B",
+    "scoreValue": 1,
+    "explanation": "Paragraph B explains how jellyfish contract their bell-shaped bodies to move."
+  },
+  {
+    "id": "t1_reading_jellyfish_3",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Which paragraph contains the following information? Choose the correct letter, A, B, or C.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH (See passage text)",
+    "text": "3. The possible causes of the increasing jellyfish population.",
+    "options": [
+      "A. Paragraph A",
+      "B. Paragraph B",
+      "C. Paragraph C"
+    ],
+    "correctAnswer": "C. Paragraph C",
+    "scoreValue": 1,
+    "explanation": "Paragraph C identifies climate change, rising sea temperatures, and overfishing."
+  },
+  {
+    "id": "t1_reading_jellyfish_4",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Which paragraph contains the following information? Choose the correct letter, A, B, or C.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH (See passage text)",
+    "text": "4. The potential danger of certain jellyfish species to humans.",
+    "options": [
+      "A. Paragraph A",
+      "B. Paragraph B",
+      "C. Paragraph C"
+    ],
+    "correctAnswer": "B. Paragraph B",
+    "scoreValue": 1,
+    "explanation": "Paragraph B mentions that box jellyfish have venom that can be fatal to humans."
+  },
+  {
+    "id": "t1_reading_jellyfish_5",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Which paragraph contains the following information? Choose the correct letter, A, B, or C.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH (See passage text)",
+    "text": "5. The negative effects of large groups of jellyfish on human activities.",
+    "options": [
+      "A. Paragraph A",
+      "B. Paragraph B",
+      "C. Paragraph C"
+    ],
+    "correctAnswer": "C. Paragraph C",
+    "scoreValue": 1,
+    "explanation": "Paragraph C describes how blooms clog power plant cooling pipes and damage fishing nets."
+  },
+  {
+    "id": "t1_reading_jellyfish_6",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Jellyfish: Reading Comprehension. Choose the correct answer, A, B, C, or D.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH (See passage text)",
+    "text": "6. The phrase “at the mercy of ocean currents” suggests that jellyfish...",
+    "options": [
+      "A. have little control over where currents carry them.",
+      "B. deliberately follow currents to find food.",
+      "C. can only move when ocean currents are strong.",
+      "D. use currents to protect themselves from predators."
+    ],
+    "correctAnswer": "A. have little control over where currents carry them.",
+    "scoreValue": 1,
+    "explanation": "The phrase means jellyfish have limited control over where ocean currents carry them, even though they can move by contracting their bodies."
+  },
+  {
+    "id": "t1_reading_jellyfish_7",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Jellyfish: Reading Comprehension. Choose the correct answer, A, B, C, or D.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH (See passage text)",
+    "text": "7. What do jellyfish use their stinging cells for?",
+    "options": [
+      "A. Detecting changes in water temperature.",
+      "B. Protecting themselves and catching food.",
+      "C. Controlling the direction of ocean currents.",
+      "D. Attracting other jellyfish."
+    ],
+    "correctAnswer": "B. Protecting themselves and catching food.",
+    "scoreValue": 1,
+    "explanation": "Their stinging cells help defend against predators and paralyze small fish and plankton for food."
+  },
+  {
+    "id": "t1_reading_jellyfish_8",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Jellyfish: Reading Comprehension. Choose the correct answer, A, B, C, or D.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH (See passage text)",
+    "text": "8. What is the main difference between the effects of most jellyfish stings and those of box jellyfish stings?",
+    "options": [
+      "A. Most jellyfish stings are harmless to all marine animals.",
+      "B. Box jellyfish use their venom only to catch larger fish.",
+      "C. Most jellyfish stings cause serious injuries, while box jellyfish stings do not.",
+      "D. Most jellyfish stings cause minor irritation, while box jellyfish venom can be fatal."
+    ],
+    "correctAnswer": "D. Most jellyfish stings cause minor irritation, while box jellyfish venom can be fatal.",
+    "scoreValue": 1,
+    "explanation": "Most jellyfish stings cause minor skin irritation, whereas box jellyfish venom can be fatal."
+  },
+  {
+    "id": "t1_reading_jellyfish_9",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Jellyfish: Reading Comprehension. Choose the correct answer, A, B, C, or D.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH (See passage text)",
+    "text": "9. According to the passage, how might overfishing contribute to the growth of jellyfish populations?",
+    "options": [
+      "A. It increases the amount of oxygen in seawater.",
+      "B. It reduces the number of natural competitors for food.",
+      "C. It causes jellyfish to develop stronger stinging cells.",
+      "D. It prevents ocean currents from carrying jellyfish away."
+    ],
+    "correctAnswer": "B. It reduces the number of natural competitors for food.",
+    "scoreValue": 1,
+    "explanation": "Overfishing removes natural competitors for food, potentially allowing jellyfish populations to increase."
+  },
+  {
+    "id": "t1_reading_jellyfish_10",
+    "testId": "test_1",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_jellyfish",
+    "passageTitle": "Reading Passage 2: The Brainless Survivor: Secrets of the Jellyfish",
+    "taskDescription": "Jellyfish: Reading Comprehension. Choose the correct answer, A, B, C, or D.",
+    "passage": "THE BRAINLESS SURVIVOR: SECRETS OF THE JELLYFISH (See passage text)",
+    "text": "10. Which statement best summarizes the final paragraph?",
+    "options": [
+      "A. Jellyfish blooms are caused by a single environmental factor and affect only marine animals.",
+      "B. Scientists have found a reliable way to prevent jellyfish populations from increasing.",
+      "C. Environmental changes may increase jellyfish populations, creating ecological and economic problems.",
+      "D. Jellyfish blooms mainly benefit coastal communities by increasing fishing opportunities."
+    ],
+    "correctAnswer": "C. Environmental changes may increase jellyfish populations, creating ecological and economic problems.",
+    "scoreValue": 1,
+    "explanation": "The final paragraph links environmental changes to growing jellyfish populations and describes the resulting ecological and economic challenges."
+  },
+  {
+    "id": "listening_1_mcq_1",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_anna",
+    "audioTitle": "Listening Passage 1: Anna, a Teacher (A1–A2)",
+    "taskDescription": "Instructions: Listen to the passage about Anna, a teacher.",
+    "audioMaxPlays": 2,
+    "text": "1. How old is Anna?",
+    "options": [
+      "A. 26 years old",
+      "B. 28 years old",
+      "C. 30 years old"
+    ],
+    "correctAnswer": "B. 28 years old",
+    "scoreValue": 1,
+    "explanation": "Anna says she is 28 years old.",
+    "audioDataUrl": "./audio/anna-teacher.mp3"
+  },
+  {
+    "id": "listening_1_mcq_2",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_anna",
+    "audioTitle": "Listening Passage 1: Anna, a Teacher (A1–A2)",
+    "taskDescription": "Instructions: Listen to the passage about Anna, a teacher.",
+    "audioMaxPlays": 2,
+    "text": "2. Where does Anna work?",
+    "options": [
+      "A. At a primary school",
+      "B. At a hospital",
+      "C. At a university"
+    ],
+    "correctAnswer": "A. At a primary school",
+    "scoreValue": 1,
+    "explanation": "She works as a teacher at a primary school in London.",
+    "audioDataUrl": "./audio/anna-teacher.mp3"
+  },
+  {
+    "id": "listening_1_mcq_3",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_anna",
+    "audioTitle": "Listening Passage 1: Anna, a Teacher (A1–A2)",
+    "taskDescription": "Instructions: Listen to the passage about Anna, a teacher.",
+    "audioMaxPlays": 2,
+    "text": "3. How does Anna usually travel to school?",
+    "options": [
+      "A. By car",
+      "B. By train",
+      "C. By bus"
+    ],
+    "correctAnswer": "C. By bus",
+    "scoreValue": 1,
+    "explanation": "Anna usually takes the bus to school.",
+    "audioDataUrl": "./audio/anna-teacher.mp3"
+  },
+  {
+    "id": "listening_1_mcq_4",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_anna",
+    "audioTitle": "Listening Passage 1: Anna, a Teacher (A1–A2)",
+    "taskDescription": "Instructions: Listen to the passage about Anna, a teacher.",
+    "audioMaxPlays": 2,
+    "text": "4. What subjects does Anna teach in the morning?",
+    "options": [
+      "A. English and Science",
+      "B. English and Maths",
+      "C. Maths and History"
+    ],
+    "correctAnswer": "B. English and Maths",
+    "scoreValue": 1,
+    "explanation": "She teaches these two subjects in the morning.",
+    "audioDataUrl": "./audio/anna-teacher.mp3"
+  },
+  {
+    "id": "listening_1_mcq_5",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_anna",
+    "audioTitle": "Listening Passage 1: Anna, a Teacher (A1–A2)",
+    "taskDescription": "Instructions: Listen to the passage about Anna, a teacher.",
+    "audioMaxPlays": 2,
+    "text": "5. What time does Anna usually finish work?",
+    "options": [
+      "A. 3:30 p.m.",
+      "B. 4:00 p.m.",
+      "C. 4:30 p.m."
+    ],
+    "correctAnswer": "C. 4:30 p.m.",
+    "scoreValue": 1,
+    "explanation": "Anna usually finishes work at four thirty.",
+    "audioDataUrl": "./audio/anna-teacher.mp3"
+  },
+  {
+    "id": "listening_1_gap_1",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "A1",
+    "type": "sentence-completion",
+    "audioGroupId": "listening_group_anna",
+    "audioTitle": "Listening Passage 1: Anna, a Teacher (A1–A2)",
+    "taskDescription": "Instructions: Listen to the passage about Anna, a teacher.",
+    "audioMaxPlays": 2,
+    "text": "Task 2.1: Anna usually gets up at __________ in the morning.",
+    "options": [
+      "six thirty",
+      "six o'clock",
+      "seven fifteen",
+      "eight o'clock"
+    ],
+    "correctAnswer": "six thirty",
+    "scoreValue": 1,
+    "explanation": "Anna gets up at 6:30 a.m. (six thirty).",
+    "audioDataUrl": "./audio/anna-teacher.mp3"
+  },
+  {
+    "id": "t1_listening_car_p1_1",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "LISTENING WORKSHEET: THE HISTORY OF THE CAR | Topic: History and Technology | Level: B1–B2. Instructions: Listen to the passage about the history of the car. Complete the tasks below. You may listen to the recording up to THREE TIMES.\nPart 1. Multiple-choice questions: Choose the correct answer, A, B, C, or D.",
+    "audioMaxPlays": 3,
+    "text": "1. What powered some of the earliest vehicles?",
+    "options": [
+      "A. Electricity",
+      "B. Steam",
+      "C. Petrol",
+      "D. Solar energy"
+    ],
+    "correctAnswer": "B. Steam",
+    "scoreValue": 1,
+    "explanation": "1. B. Steam: Some early vehicles used steam power before petrol engines became common.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p1_2",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "LISTENING WORKSHEET: THE HISTORY OF THE CAR | Topic: History and Technology | Level: B1–B2. Instructions: Listen to the passage about the history of the car. Complete the tasks below. You may listen to the recording up to THREE TIMES.\nPart 1. Multiple-choice questions: Choose the correct answer, A, B, C, or D.",
+    "audioMaxPlays": 3,
+    "text": "2. Who built what is widely considered the first practical petrol-powered automobile in 1886?",
+    "options": [
+      "A. Henry Ford",
+      "B. Karl Benz",
+      "C. Thomas Edison",
+      "D. James Watt"
+    ],
+    "correctAnswer": "B. Karl Benz",
+    "scoreValue": 1,
+    "explanation": "2. B. Karl Benz: The German engineer built a practical petrol-powered automobile in 1886.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p1_3",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "LISTENING WORKSHEET: THE HISTORY OF THE CAR | Topic: History and Technology | Level: B1–B2. Instructions: Listen to the passage about the history of the car. Complete the tasks below. You may listen to the recording up to THREE TIMES.\nPart 1. Multiple-choice questions: Choose the correct answer, A, B, C, or D.",
+    "audioMaxPlays": 3,
+    "text": "3. Why were cars initially owned mainly by wealthy people?",
+    "options": [
+      "A. They were expensive.",
+      "B. They were difficult to repair.",
+      "C. They were only available in Germany.",
+      "D. They required special driving licenses."
+    ],
+    "correctAnswer": "A. They were expensive.",
+    "scoreValue": 1,
+    "explanation": "3. A. They were expensive: Early cars cost a lot of money, so mainly wealthy people could afford them.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p1_4",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "LISTENING WORKSHEET: THE HISTORY OF THE CAR | Topic: History and Technology | Level: B1–B2. Instructions: Listen to the passage about the history of the car. Complete the tasks below. You may listen to the recording up to THREE TIMES.\nPart 1. Multiple-choice questions: Choose the correct answer, A, B, C, or D.",
+    "audioMaxPlays": 3,
+    "text": "4. What was the main benefit of Henry Ford's moving assembly line?",
+    "options": [
+      "A. It made cars more comfortable.",
+      "B. It made cars faster and cheaper to produce.",
+      "C. It improved the safety of car engines.",
+      "D. It allowed cars to travel longer distances."
+    ],
+    "correctAnswer": "B. It made cars faster and cheaper to produce.",
+    "scoreValue": 1,
+    "explanation": "4. B. It made cars faster and cheaper to produce: The assembly line helped workers build cars more efficiently and reduce production costs.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p1_5",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "LISTENING WORKSHEET: THE HISTORY OF THE CAR | Topic: History and Technology | Level: B1–B2. Instructions: Listen to the passage about the history of the car. Complete the tasks below. You may listen to the recording up to THREE TIMES.\nPart 1. Multiple-choice questions: Choose the correct answer, A, B, C, or D.",
+    "audioMaxPlays": 3,
+    "text": "5. What is a major focus of the modern automotive industry?",
+    "options": [
+      "A. Producing larger vehicles",
+      "B. Returning to steam-powered vehicles",
+      "C. Developing cleaner and safer transportation",
+      "D. Making cars more expensive"
+    ],
+    "correctAnswer": "C. Developing cleaner and safer transportation",
+    "scoreValue": 1,
+    "explanation": "5. C. Developing cleaner and safer transportation: Modern manufacturers are developing electric and self-driving cars to improve transportation.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p2_1",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B1",
+    "type": "sentence-completion",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "Part 2. Gap filling: Complete the sentences using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+    "audioMaxPlays": 3,
+    "text": "1. The history of the car began more than __________ years ago.",
+    "options": [
+      "two hundred",
+      "one hundred",
+      "fifty",
+      "three hundred"
+    ],
+    "correctAnswer": "two hundred",
+    "scoreValue": 1,
+    "explanation": "1. two hundred: The passage says car history began more than two hundred years ago.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p2_2",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B1",
+    "type": "sentence-completion",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "Part 2. Gap filling: Complete the sentences using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+    "audioMaxPlays": 3,
+    "text": "2. Early steam-powered vehicles were slow, heavy, and difficult to __________.",
+    "options": [
+      "control",
+      "repair",
+      "afford",
+      "sell"
+    ],
+    "correctAnswer": "control",
+    "scoreValue": 1,
+    "explanation": "2. control: Early steam-powered vehicles were difficult to control.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p2_3",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B1",
+    "type": "sentence-completion",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "Part 2. Gap filling: Complete the sentences using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+    "audioMaxPlays": 3,
+    "text": "3. Karl Benz's invention marked an important turning point in __________.",
+    "options": [
+      "transportation",
+      "aviation",
+      "navigation",
+      "electricity"
+    ],
+    "correctAnswer": "transportation",
+    "scoreValue": 1,
+    "explanation": "3. transportation: Benz's invention was an important development in transportation.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p2_4",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B2",
+    "type": "sentence-completion",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "Part 2. Gap filling: Complete the sentences using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+    "audioMaxPlays": 3,
+    "text": "4. Henry Ford introduced the moving __________ in his car factory.",
+    "options": [
+      "assembly line",
+      "conveyor track",
+      "steam engine",
+      "robotic arm"
+    ],
+    "correctAnswer": "assembly line",
+    "scoreValue": 1,
+    "explanation": "4. assembly line: Ford used a moving assembly line to produce cars more efficiently.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p2_5",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B2",
+    "type": "sentence-completion",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "Part 2. Gap filling: Complete the sentences using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+    "audioMaxPlays": 3,
+    "text": "5. Modern cars use seat belts, airbags, and navigation systems to improve safety and __________.",
+    "options": [
+      "convenience",
+      "speed",
+      "luxury",
+      "production"
+    ],
+    "correctAnswer": "convenience",
+    "scoreValue": 1,
+    "explanation": "5. convenience: Modern features make driving safer and more convenient.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "t1_listening_car_p2_6",
+    "testId": "test_1",
+    "section": "Listening",
+    "difficulty": "B2",
+    "type": "sentence-completion",
+    "audioGroupId": "listening_group_car_history",
+    "audioTitle": "Listening Passage 2: The History of the Car (B1–B2)",
+    "taskDescription": "Part 2. Gap filling: Complete the sentences using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+    "audioMaxPlays": 3,
+    "text": "6. The automotive industry is developing electric and __________ cars.",
+    "options": [
+      "self-driving",
+      "steam-powered",
+      "solar-powered",
+      "flying"
+    ],
+    "correctAnswer": "self-driving",
+    "scoreValue": 1,
+    "explanation": "6. self-driving: Self-driving cars are a developing technology in the automotive industry.",
+    "audioDataUrl": "./audio/historyofcar.mp3"
+  },
+  {
+    "id": "test2_vocab_1",
+    "testId": "test_2",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "PART 1: ELEMENTARY VOCABULARY (A1–A2) — Questions 1–12",
+    "text": "1. I usually ___ breakfast at 7 a.m. before going to school.",
+    "options": [
+      "A. do",
+      "B. make",
+      "C. have",
+      "D. take"
+    ],
+    "correctAnswer": "C. have",
+    "scoreValue": 1,
+    "explanation": "Have breakfast is the standard collocation for eating breakfast."
+  },
+  {
+    "id": "test2_vocab_2",
+    "testId": "test_2",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "PART 1: ELEMENTARY VOCABULARY (A1–A2) — Questions 1–12",
+    "text": "2. My sister is very ___. She always helps people when they have problems.",
+    "options": [
+      "A. kind",
+      "B. lazy",
+      "C. rude",
+      "D. nervous"
+    ],
+    "correctAnswer": "A. kind",
+    "scoreValue": 1,
+    "explanation": "Kind means caring, friendly, and willing to help others."
+  },
+  {
+    "id": "test2_vocab_3",
+    "testId": "test_2",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "PART 1: ELEMENTARY VOCABULARY (A1–A2) — Questions 1–12",
+    "text": "3. Could you ___ the window? It's very hot in here.",
+    "options": [
+      "A. open",
+      "B. build",
+      "C. carry",
+      "D. grow"
+    ],
+    "correctAnswer": "A. open",
+    "scoreValue": 1,
+    "explanation": "Open means to move something so that an opening is no longer closed."
+  },
+  {
+    "id": "test2_vocab_4",
+    "testId": "test_2",
+    "section": "Vocabulary",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "taskDescription": "PART 1: ELEMENTARY VOCABULARY (A1–A2) — Questions 1–12",
+    "text": "4. A person who teaches students at school is a ___.",
+    "options": [
+      "A. chef",
+      "B. teacher",
+      "C. driver",
+      "D. farmer"
+    ],
+    "correctAnswer": "B. teacher",
+    "scoreValue": 1,
+    "explanation": "A teacher is someone whose job is to teach students."
+  },
+  {
+    "id": "test2_vocab_5",
+    "testId": "test_2",
+    "section": "Vocabulary",
+    "difficulty": "A2",
+    "type": "multiple-choice",
+    "taskDescription": "PART 1: ELEMENTARY VOCABULARY (A1–A2) — Questions 1–12",
+    "text": "5. We need to go to the supermarket because we have ___ milk left.",
+    "options": [
+      "A. many",
+      "B. a few",
+      "C. much",
+      "D. little"
+    ],
+    "correctAnswer": "D. little",
+    "scoreValue": 1,
+    "explanation": "Little means a small amount of an uncountable noun."
+  },
+  {
+    "id": "grammar_new_1",
+    "testId": "test_2",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "1. (A1) Quiz 1: My brother ___ to school every day.",
+    "options": [
+      "A. go",
+      "B. goes",
+      "C. going",
+      "D. gone"
+    ],
+    "correctAnswer": "B. goes",
+    "scoreValue": 1,
+    "explanation": "Use the present simple for routines and habits."
+  },
+  {
+    "id": "grammar_new_2",
+    "testId": "test_2",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "2. (A1) Quiz 2: There ___ two books on the table.",
+    "options": [
+      "A. is",
+      "B. am",
+      "C. are",
+      "D. be"
+    ],
+    "correctAnswer": "C. are",
+    "scoreValue": 1,
+    "explanation": "Use there are with plural nouns. \"Two books\" is plural."
+  },
+  {
+    "id": "grammar_new_3",
+    "testId": "test_2",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "3. (A1) Quiz 3: She ___ coffee every morning.",
+    "options": [
+      "A. drink",
+      "B. drinking",
+      "C. drinks",
+      "D. drank"
+    ],
+    "correctAnswer": "C. drinks",
+    "scoreValue": 1,
+    "explanation": "The present simple describes regular activities. With she, the verb takes -s."
+  },
+  {
+    "id": "grammar_new_4",
+    "testId": "test_2",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "4. (A1) Quiz 4: She doesn't have ___ brothers or sisters.",
+    "options": [
+      "A. some",
+      "B. much",
+      "C. a",
+      "D. any"
+    ],
+    "correctAnswer": "D. any",
+    "scoreValue": 1,
+    "explanation": "Use any in negative sentences with plural countable nouns."
+  },
+  {
+    "id": "grammar_new_5",
+    "testId": "test_2",
+    "section": "Grammar",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "text": "5. (A1) Quiz 5: Look! The children ___ in the garden.",
+    "options": [
+      "A. play",
+      "B. plays",
+      "C. played",
+      "D. are playing"
+    ],
+    "correctAnswer": "D. are playing",
+    "scoreValue": 1,
+    "explanation": "Use the present continuous for actions happening now."
+  },
+  {
+    "id": "reading_algae_1",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B1",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_algae",
+    "passageTitle": "Reading Passage 1: The Hidden Importance of Algae",
+    "taskDescription": "Part 1: Multiple-Choice Questions (Questions 1–5)",
+    "passage": "Paragraph 1: General characteristics of algae\nAlgae are simple organisms that live in many different environments, including oceans, rivers, lakes, and even damp soil. They come in various sizes, from tiny organisms that can only be seen through a microscope to large seaweeds that grow several metres long. Although many people think of algae as green plants, they are a diverse group of organisms with different shapes, colours, and characteristics.",
+    "text": "Quiz 1. What is the main purpose of the passage?",
+    "options": [
+      "A. To explain why all algae are dangerous to humans",
+      "B. To describe the importance, uses, and potential problems of algae",
+      "C. To compare algae with animals living in the ocean",
+      "D. To explain how scientists grow seaweed for food"
+    ],
+    "correctAnswer": "B. To describe the importance, uses, and potential problems of algae",
+    "scoreValue": 1,
+    "explanation": "The passage discusses algae's characteristics, environmental roles, human uses, possible benefits, and harmful effects."
+  },
+  {
+    "id": "t2_reading_fatal_1",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "sentence-completion",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 1–5: Note Completion\nComplete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer.\nHow a Venus flytrap traps an insect",
+    "passage": "Fatal Attraction\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.\nEvolutionist Charles Darwin first marveled at flesh-eating plants in the mid-19th century. Today, biologists, using 21st-century tools to study cells and DNA, are beginning to understand how these plants hunt, eat and digest – and how such bizarre adaptations arose in the first place.\nA. The leaves of the Venus flytrap plant are covered in hairs. When an insect brushes against them, this triggers a tiny electric charge, which travels down tunnels in the leaf and opens up pores in the leaf’s cell membranes. Water surges from the cells on the inside of the leaf to those on the outside, causing the leaf to rapidly flip in shape from convex to concave, like a soft contact lens. As the leaves flip, they snap together, trapping the insect in their sharp-toothed jaws.\nB. The bladderwort has an equally sophisticated way of setting its underwater trap. It pumps water out of tiny bag-like bladders, making a vacuum inside. When small creatures swim past, they bend the hairs on the bladder, causing a flap to open. The low pressure sucks water in, carrying the animal along with it. In one five-hundredth of a second, the door swings shut again. The Drosera sundew, meanwhile, has a thick, sweet liquid oozing from its leaves, which first attracts insects then holds them fast before the leaves snap shut. Pitcher plants use yet another strategy, growing long tube-shaped leaves to imprison their prey. Raffles’ pitcher plant, from the jungles of Borneo, produces nectar that both lures insects and forms a slick surface on which they can’t get a grip. Insects that land on the rim of the pitcher slide on the liquid and tumble in.\nC. Many carnivorous plants secrete enzymes to penetrate the hard exoskeleton of insects so they can absorb nutrients from inside their prey. But the purple pitcher plant, which lives in bogs and infertile sandy soils in North America, enlists other organisms to process its food. It is home to an intricate food web of mosquito larvae, midges and bacteria, many of which can survive only in this unique habitat. These animals shred the prey that fall into the pitcher, and the smaller organisms feed on the debris. Finally, the plant absorbs the nutrients released.\nD. While such plans clearly thrive on being carnivorous, the benefits of eating flesh are not the ones you might expect. Carnivorous animals such as ourselves use the carbon in protein and the fat in meat to build muscles and store energy. Carnivorous plants instead draw nitrogen, phosphorus, and other critical nutrients from their prey in order to build light-harvesting enzymes. Eating animals, in other words, lets carnivorous plants do what all plants do: carry out photosynthesis, that is, grow by harnessing energy directly from the sun.\nE. Carnivorous plants are, in fact, very inefficient at converting sunlight into tissue. This is because of all the energy they expend to make the equipment to catch animals; the enzymes, the pumps, and so on. A pitcher or a flytrap cannot carry out much photosynthesis because, unlike plants with ordinary leaves, they do not have flat solar panels that can grab lots of sunlight. There are, however, some special conditions in which the benefits of being carnivorous do outweigh the costs. The poor soil of bogs, for example, offers little nitrogen and phosphorus, so carnivorous plants enjoy an advantage over plants that obtain these nutrients by more conventional means. Bogs are also flooded with sunshine, so even an inefficient carnivorous plant can photosynthesise enough light to survive.\nF. Evolution has repeatedly made this trade-off by comparing the DNA of carnivorous plants with other species. Scientists have found that they evolved independently on at least six separate occasions. Some carnivorous plants that look nearly identical turn out to be only distantly related. The two kinds of pitcher plants – the tropical genus Nepenthes and the North American Sarracenia – have, surprisingly, evolved from different ancestors, although both grow deep pitcher shaped leaves and employ the same strategy for capturing prey.\nG. In several cases, scientists can see how complex carnivorous plants evolved from simpler ones. Venus flytraps, for example, share an ancestor with Portuguese sundews, which only catch prey passively, via ‘flypaper’ glands on their stems. They share a more recent ancestor with Drosera sundews, which can also curl their leaves over their prey. Venus flytraps appear to have evolved an even more elaborate version of this kind of trap, complete with jaw-like leaves.\nH. Unfortunately, the adaptations that enable carnivorous plants to thrive in marginal habitats also make them exquisitely sensitive. Agricultural run-off and pollution from power plants are adding extra nitrogen to many bogs in North America. Carnivorous plants are so finely tuned to low levels of nitrogen that this extra fertilizer is overloading their systems, and they eventually burn themselves out and die.\nI. Humans also threaten carnivorous plants in other ways. The black market trade in exotic carnivorous plants is so vigorous now that botanists are keeping the location of some rare species a secret. But even if the poaching of carnivorous plants can be halted, they will continue to suffer from other assaults. In the pine savannah of North Carolina, the increasing suppression of fires is allowing other plants to grow too quickly and outcompete the flytraps in their native environment. Good news, perhaps, for flies. But a loss for all who, like Darwin, delight in the sheer inventiveness of evolution.",
+    "text": "1. Insect touches __________ on leaf of plant.",
+    "correctAnswer": "hairs",
+    "scoreValue": 1,
+    "explanation": "Paragraph A: \"The leaves of the Venus flytrap plant are covered in hairs. When an insect brushes against them...\""
+  },
+  {
+    "id": "t2_reading_fatal_2",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "sentence-completion",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 1–5: Note Completion\nComplete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer.\nHow a Venus flytrap traps an insect",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "2. Small __________ passes through leaf.",
+    "correctAnswer": "electric charge",
+    "acceptedAnswers": [
+      "charge"
+    ],
+    "scoreValue": 1,
+    "explanation": "Paragraph A: \"this triggers a tiny electric charge, which travels down tunnels in the leaf\". Accepted: \"electric charge\" or \"charge\"."
+  },
+  {
+    "id": "t2_reading_fatal_3",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "sentence-completion",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 1–5: Note Completion\nComplete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer.\nHow a Venus flytrap traps an insect",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "3. __________ in cell membrane open.",
+    "correctAnswer": "pores",
+    "scoreValue": 1,
+    "explanation": "Paragraph A: the charge \"opens up pores in the leaf’s cell membranes\"."
+  },
+  {
+    "id": "t2_reading_fatal_4",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "sentence-completion",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 1–5: Note Completion\nComplete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer.\nHow a Venus flytrap traps an insect",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "4. Outside cells of leaves fill with __________.",
+    "correctAnswer": "water",
+    "scoreValue": 1,
+    "explanation": "Paragraph A: \"Water surges from the cells on the inside of the leaf to those on the outside\"."
+  },
+  {
+    "id": "t2_reading_fatal_5",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "sentence-completion",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 1–5: Note Completion\nComplete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer.\nHow a Venus flytrap traps an insect",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "5. Leaves change so that they have a __________ shape and snap shut.",
+    "correctAnswer": "concave",
+    "scoreValue": 1,
+    "explanation": "Paragraph A: the leaf flips \"in shape from convex to concave\" and the leaves snap together."
+  },
+  {
+    "id": "t2_reading_fatal_6",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 6–9: Matching Information\nMatch each statement with the correct plant, A–E. You may use each letter more than once.\nList of plants: A. Venus flytrap • B. Bladderwort • C. Drosera sundew • D. Raffles’ pitcher plant • E. Purple pitcher plant",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "6. It uses other creatures to help it digest insects.",
+    "options": [
+      "A. Venus flytrap",
+      "B. Bladderwort",
+      "C. Drosera sundew",
+      "D. Raffles’ pitcher plant",
+      "E. Purple pitcher plant"
+    ],
+    "correctAnswer": "E. Purple pitcher plant",
+    "scoreValue": 1,
+    "explanation": "Paragraph C: the purple pitcher plant \"enlists other organisms to process its food\" (mosquito larvae, midges and bacteria)."
+  },
+  {
+    "id": "t2_reading_fatal_7",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 6–9: Matching Information\nMatch each statement with the correct plant, A–E. You may use each letter more than once.\nList of plants: A. Venus flytrap • B. Bladderwort • C. Drosera sundew • D. Raffles’ pitcher plant • E. Purple pitcher plant",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "7. It produces a slippery substance to make insects fall inside it.",
+    "options": [
+      "A. Venus flytrap",
+      "B. Bladderwort",
+      "C. Drosera sundew",
+      "D. Raffles’ pitcher plant",
+      "E. Purple pitcher plant"
+    ],
+    "correctAnswer": "D. Raffles’ pitcher plant",
+    "scoreValue": 1,
+    "explanation": "Paragraph B: Raffles’ pitcher plant produces nectar that \"forms a slick surface\"; insects \"slide on the liquid and tumble in\"."
+  },
+  {
+    "id": "t2_reading_fatal_8",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 6–9: Matching Information\nMatch each statement with the correct plant, A–E. You may use each letter more than once.\nList of plants: A. Venus flytrap • B. Bladderwort • C. Drosera sundew • D. Raffles’ pitcher plant • E. Purple pitcher plant",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "8. It creates an empty space into which insects are sucked.",
+    "options": [
+      "A. Venus flytrap",
+      "B. Bladderwort",
+      "C. Drosera sundew",
+      "D. Raffles’ pitcher plant",
+      "E. Purple pitcher plant"
+    ],
+    "correctAnswer": "B. Bladderwort",
+    "scoreValue": 1,
+    "explanation": "Paragraph B: the bladderwort pumps water out of its bladders, \"making a vacuum inside\"; the low pressure sucks the animal in."
+  },
+  {
+    "id": "t2_reading_fatal_9",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 6–9: Matching Information\nMatch each statement with the correct plant, A–E. You may use each letter more than once.\nList of plants: A. Venus flytrap • B. Bladderwort • C. Drosera sundew • D. Raffles’ pitcher plant • E. Purple pitcher plant",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "9. It produces a sticky substance which traps insects on its surface.",
+    "options": [
+      "A. Venus flytrap",
+      "B. Bladderwort",
+      "C. Drosera sundew",
+      "D. Raffles’ pitcher plant",
+      "E. Purple pitcher plant"
+    ],
+    "correctAnswer": "C. Drosera sundew",
+    "scoreValue": 1,
+    "explanation": "Paragraph B: the Drosera sundew has \"a thick, sweet liquid oozing from its leaves\" which \"holds them fast\"."
+  },
+  {
+    "id": "t2_reading_fatal_10",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 10–13: Matching Paragraphs\nThe passage has nine paragraphs, A–I. Which paragraph contains the following information?",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "10. A mention of a disadvantage of the leaf shape of some carnivorous plants.",
+    "options": [
+      "A. Paragraph A",
+      "B. Paragraph B",
+      "C. Paragraph C",
+      "D. Paragraph D",
+      "E. Paragraph E",
+      "F. Paragraph F",
+      "G. Paragraph G",
+      "H. Paragraph H",
+      "I. Paragraph I"
+    ],
+    "correctAnswer": "E. Paragraph E",
+    "scoreValue": 1,
+    "explanation": "Paragraph E: pitchers and flytraps \"do not have flat solar panels that can grab lots of sunlight\", so they cannot carry out much photosynthesis."
+  },
+  {
+    "id": "t2_reading_fatal_11",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 10–13: Matching Paragraphs\nThe passage has nine paragraphs, A–I. Which paragraph contains the following information?",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "11. An example of an effort made to protect carnivorous plants.",
+    "options": [
+      "A. Paragraph A",
+      "B. Paragraph B",
+      "C. Paragraph C",
+      "D. Paragraph D",
+      "E. Paragraph E",
+      "F. Paragraph F",
+      "G. Paragraph G",
+      "H. Paragraph H",
+      "I. Paragraph I"
+    ],
+    "correctAnswer": "I. Paragraph I",
+    "scoreValue": 1,
+    "explanation": "Paragraph I: \"botanists are keeping the location of some rare species a secret\" to protect them from the black market trade."
+  },
+  {
+    "id": "t2_reading_fatal_12",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 10–13: Matching Paragraphs\nThe passage has nine paragraphs, A–I. Which paragraph contains the following information?",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "12. Unexpected information about the origins of certain carnivorous plants.",
+    "options": [
+      "A. Paragraph A",
+      "B. Paragraph B",
+      "C. Paragraph C",
+      "D. Paragraph D",
+      "E. Paragraph E",
+      "F. Paragraph F",
+      "G. Paragraph G",
+      "H. Paragraph H",
+      "I. Paragraph I"
+    ],
+    "correctAnswer": "F. Paragraph F",
+    "scoreValue": 1,
+    "explanation": "Paragraph F: the two kinds of pitcher plants have, \"surprisingly, evolved from different ancestors\"."
+  },
+  {
+    "id": "t2_reading_fatal_13",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "B2",
+    "type": "multiple-choice",
+    "passageId": "reading_passage_fatal_attraction",
+    "passageTitle": "Reading Passage 2: Fatal Attraction",
+    "taskDescription": "Questions 10–13: Matching Paragraphs\nThe passage has nine paragraphs, A–I. Which paragraph contains the following information?",
+    "passage": "FATAL ATTRACTION (See passage text)",
+    "text": "13. An example of environmental changes that shorten the life cycles of carnivorous plants.",
+    "options": [
+      "A. Paragraph A",
+      "B. Paragraph B",
+      "C. Paragraph C",
+      "D. Paragraph D",
+      "E. Paragraph E",
+      "F. Paragraph F",
+      "G. Paragraph G",
+      "H. Paragraph H",
+      "I. Paragraph I"
+    ],
+    "correctAnswer": "H. Paragraph H",
+    "scoreValue": 1,
+    "explanation": "Paragraph H: extra nitrogen from run-off and pollution overloads their systems, so \"they eventually burn themselves out and die\"."
+  },
+  {
+    "id": "custom_1792240108627_0",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "options": [
+      "A. Only in oceans",
+      "B. In various environments",
+      "C. Only in damp soil",
+      "D. Inside other organisms"
+    ],
+    "correctAnswer": "B. In various environments",
+    "taskDescription": "Part 1: Multiple-Choice Questions (Questions 1–5)",
+    "text": "Where can algae live?",
+    "scoreValue": 1,
+    "explanation": "\"Algae are simple organisms that live in many different environments, including oceans, rivers, lakes, and even damp soil. \"",
+    "passage": "Paragraph 1: General characteristics of algae\nAlgae are simple organisms that live in many different environments, including oceans, rivers, lakes, and even damp soil. They come in various sizes, from tiny organisms that can only be seen through a microscope to large seaweeds that grow several metres long. Although many people think of algae as green plants, they are a diverse group of organisms with different shapes, colours, and characteristics.",
+    "passageId": "reading_passage_algae",
+    "passageTitle": "Reading Passage 1: The Hidden Importance of Algae",
+    "audioMaxPlays": 2
+  },
+  {
+    "id": "custom_1792240108627_1",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "options": [
+      "A. Several metres long",
+      "B. No more than a millimetre long",
+      "C. Only visible through a microscope",
+      "D. 5-7cm "
+    ],
+    "correctAnswer": "A. Several metres long",
+    "taskDescription": "Part 1: Multiple-Choice Questions (Questions 1–5)",
+    "text": "How large can some algae grow?",
+    "scoreValue": 1,
+    "explanation": "\"...large seaweeds that grow several metres long.\"",
+    "passage": "Paragraph 1: General characteristics of algae\nAlgae are simple organisms that live in many different environments, including oceans, rivers, lakes, and even damp soil. They come in various sizes, from tiny organisms that can only be seen through a microscope to large seaweeds that grow several metres long. Although many people think of algae as green plants, they are a diverse group of organisms with different shapes, colours, and characteristics.",
+    "passageId": "reading_passage_algae",
+    "passageTitle": "Reading Passage 1: The Hidden Importance of Algae",
+    "audioMaxPlays": 2
+  },
+  {
+    "id": "custom_1792240108627_2",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "multiple-choice",
+    "options": [
+      "A. All algae are green.",
+      "B. People in the UK like to eat them",
+      "C. All algae have the same shape.",
+      "D. Algae have different shapes and colours"
+    ],
+    "correctAnswer": "D. Algae have different shapes and colours",
+    "taskDescription": "Part 1: Multiple-Choice Questions (Questions 1–5)",
+    "text": "What is true about algae?",
+    "scoreValue": 1,
+    "explanation": "\"they (algae) are a diverse group of organisms with different shapes, colours, and characteristics.\"",
+    "passage": "Paragraph 1: General characteristics of algae\nAlgae are simple organisms that live in many different environments, including oceans, rivers, lakes, and even damp soil. They come in various sizes, from tiny organisms that can only be seen through a microscope to large seaweeds that grow several metres long. Although many people think of algae as green plants, they are a diverse group of organisms with different shapes, colours, and characteristics.",
+    "passageId": "reading_passage_algae",
+    "passageTitle": "Reading Passage 1: The Hidden Importance of Algae",
+    "audioMaxPlays": 2
+  },
+  {
+    "id": "custom_1792240108627_3",
+    "testId": "test_2",
+    "section": "Reading",
+    "difficulty": "A1",
+    "type": "sentence-completion",
+    "correctAnswer": "microscope",
+    "taskDescription": "Part 1: Multiple-Choice Questions (Questions 1–5)",
+    "text": "Fill in the blank with ONE WORD from the passage. Tiny algae can only be seen through a __________.",
+    "scoreValue": 1,
+    "explanation": "\"...come in various sizes, from tiny organisms that can only be seen through a microscope...\"",
+    "passage": "Paragraph 1: General characteristics of algae\nAlgae are simple organisms that live in many different environments, including oceans, rivers, lakes, and even damp soil. They come in various sizes, from tiny organisms that can only be seen through a microscope to large seaweeds that grow several metres long. Although many people think of algae as green plants, they are a diverse group of organisms with different shapes, colours, and characteristics.",
+    "passageId": "reading_passage_algae",
+    "passageTitle": "Reading Passage 1: The Hidden Importance of Algae",
+    "audioMaxPlays": 2
+  }
+]
